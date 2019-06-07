@@ -1,0 +1,51 @@
+body {
+	background-color: #c3c3c3;
+	background-image: url(../img/bgpattern.png);
+	background-repeat: repeat;
+
+	margin: 0;
+	padding: 0;
+	outline: 2px solid black;
+}
+
+#nomber {
+	/* Ниже данного комментария - сокращенная запись
+	
+	background-image: url(../img/tel.jpg);
+	background-repeat: no-repeat;
+	background-position: 0% 80%;
+	background-attachment: fixed;
+	*/
+	background: url(../img/tel.jpg) no-repeat 0% 80% fixed;
+}
+
+#div1 {
+	outline: 2px solid #ffd400;
+	width: 800px;
+	height: 1421px;
+	margin: 29px auto;
+	background-image: url(../img/bg_s.jpg);
+	background-repeat: repeat-x;
+	background-color: #fffdca;
+}
+
+#div1 h1 {
+	/*outline: 2px solid red;
+	*/
+	text-align: center;
+	padding-top: 180px;
+	font: 36px Verdana;
+	background-image: url(../img/logo.png);
+	background-repeat: no-repeat;
+	background-position: 17% 98%;
+}
+
+a {
+	text-decoration-line: none;
+	border-bottom: blue 4px dotted;
+	color: green;
+}
+
+a:hover {
+	color: red;
+}

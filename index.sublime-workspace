@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"baco",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bgc",
+				"background-color\tproperty"
+			],
+			[
+				"br",
+				"background-repeat\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"bc",
+				"background-color\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"background",
+				"background-attachment"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"backgr",
+				"background-position\tproperty"
+			],
+			[
+				"p",
+				"padding-left\tproperty"
+			],
+			[
+				"bi",
+				"background-image\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"ar",
+				"arabic-indic\tlist-style-type"
+			],
+			[
+				"text-decor",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"it",
+				"initial\tfont-style"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"RG",
+				"rgba()\tbackground-color"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"yandex",
+				"yandexgoogle"
+			],
+			[
+				"ht",
+				"http"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/form.html",
+		"/Applications/MAMP/htdocs/search/googlerambleryahoo.html",
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/css/style_form.css",
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/css/style.css",
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/index.html",
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/formdata.php",
+		"/Users/adyjackson/test/index.html",
+		"/Users/adyjackson/Desktop/Программирование/CSS/Мои CSS файлы/tittleforcss.html",
+		"/Users/adyjackson/Desktop/Программирование/CSS/Мои CSS файлы/style.css",
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/index_bg.html",
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/css/style_bg.css",
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/testbgimage.html",
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/testbg.css",
+		"/Applications/MAMP/htdocs/phpstormproject.ru/index.php",
+		"/Applications/MAMP/htdocs/phpstormproject.ru/Human.php",
+		"/Applications/MAMP/htdocs/phpstormproject.ru/Cars.php",
+		"/Applications/MAMP/htdocs/phpstormproject.ru/Bmw.php",
+		"/Applications/MAMP/htdocs/phpstormproject.ru/Animal.php",
+		"/Users/adyjackson/Desktop/index.html",
+		"/Users/adyjackson/Desktop/style.css",
+		"/Applications/MAMP/htdocs/phpinfo.php",
+		"/Applications/MAMP/conf/php5.5.30/php.ini",
+		"/Applications/MAMP/conf/php5.6.17/php.ini",
+		"/Applications/MAMP/conf/php7.1.18/php.ini",
+		"/Applications/MAMP/conf/php5.3.28/php.ini",
+		"/Applications/MAMP/bin/php/php5.6.40/conf/php.ini",
+		"/Applications/MAMP/bin/php/php5.4.45/conf/php.ini",
+		"/Applications/MAMP/conf/php5.3.10/php.ini",
+		"/Applications/MAMP/conf/php5.4.38/php.ini",
+		"/Applications/MAMP/conf/php7.0.33/php.ini",
+		"/Applications/MAMP/conf/php5.5.18/php.ini",
+		"/Applications/MAMP/conf/php5.4.42/php.ini",
+		"/Applications/MAMP/conf/php5.5.10/php.ini",
+		"/Applications/MAMP/conf/php7.0.3/php.ini",
+		"/Applications/MAMP/conf/php7.0.31/php.ini",
+		"/Applications/MAMP/conf/php5.5.17/php.ini",
+		"/Applications/MAMP/conf/php7.0.27/php.ini",
+		"/Applications/MAMP/conf/php7.0.30/php.ini",
+		"/Applications/MAMP/conf/php7.0.32/php.ini",
+		"/Applications/MAMP/conf/php5.4.45/php.ini",
+		"/Applications/MAMP/conf/php5.5.14/php.ini",
+		"/Applications/MAMP/conf/php7.0.5/php.ini",
+		"/Applications/MAMP/conf/php7.0.9/php.ini",
+		"/Applications/MAMP/conf/php7.0.4/php.ini",
+		"/Applications/MAMP/conf/php5.5.22/php.ini",
+		"/Applications/MAMP/conf/php5.5.19/php.ini",
+		"/Applications/MAMP/conf/php7.0.7/php.ini",
+		"/Applications/MAMP/conf/php5.5.26/php.ini",
+		"/Applications/MAMP/conf/php5.5.23/php.ini",
+		"/Applications/MAMP/conf/php7.0.25/php.ini",
+		"/Applications/MAMP/conf/php7.0.2/php.ini",
+		"/Applications/MAMP/conf/php5.4.4/php.ini",
+		"/Applications/MAMP/conf/php5.4.35/php.ini",
+		"/Applications/MAMP/conf/php7.0.18/php.ini",
+		"/Applications/MAMP/conf/php7.0.19/php.ini",
+		"/Applications/MAMP/conf/php7.0.26/php.ini",
+		"/Applications/MAMP/conf/php7.0.20/php.ini",
+		"/Applications/MAMP/conf/php7.0.13/php.ini",
+		"/Applications/MAMP/conf/php7.0.15/php.ini",
+		"/Applications/MAMP/conf/php5.4.32/php.ini",
+		"/Applications/MAMP/conf/php5.3.5/php.ini",
+		"/Applications/MAMP/conf/php7.0.14/php.ini",
+		"/Applications/MAMP/conf/php7.0.17/php.ini",
+		"/Applications/MAMP/conf/php5.6.7/php.ini",
+		"/Applications/MAMP/conf/php7.0.16/php.ini",
+		"/Applications/MAMP/conf/php5.3.6/php.ini",
+		"/Applications/MAMP/conf/php5.4.19/php.ini",
+		"/Applications/MAMP/conf/php5.6.6/php.ini",
+		"/Applications/MAMP/conf/php5.4.34/php.ini",
+		"/Applications/MAMP/conf/php5.4.33/php.ini",
+		"/Applications/MAMP/conf/php5.4.10/php.ini",
+		"/Applications/MAMP/conf/php5.4.20/php.ini",
+		"/Applications/MAMP/conf/php5.4.21/php.ini",
+		"/Applications/MAMP/conf/php7.0.11/php.ini",
+		"/Applications/MAMP/conf/php7.0.10/php.ini",
+		"/Applications/MAMP/conf/php5.4.26/php.ini",
+		"/Applications/MAMP/conf/php5.4.23/php.ini",
+		"/Applications/MAMP/conf/php7.0.12/php.ini",
+		"/Applications/MAMP/conf/php5.4.25/php.ini",
+		"/Applications/MAMP/conf/php5.6.40/php.ini",
+		"/Applications/MAMP/conf/php7.0.0/php.ini",
+		"/Applications/MAMP/conf/php5.6.37/php.ini",
+		"/Applications/MAMP/conf/php5.4.3/php.ini",
+		"/Applications/MAMP/bin/php/php5.6.40/conf/php.ini.temp",
+		"/Applications/MAMP/conf/php5.6.27/php.ini",
+		"/Applications/MAMP/conf/php5.1.6/php.ini",
+		"/Applications/MAMP/conf/php5.6.16/php.ini",
+		"/Applications/MAMP/conf/php5.6.39/php.ini",
+		"/Users/adyjackson/Desktop/Левые проги из инета/composer.phar",
+		"/Users/adyjackson/composer.phar",
+		"/Applications/MAMP/conf/php5.6.28/php.ini",
+		"/Applications/MAMP/conf/php7.2.2/php.ini",
+		"/Applications/MAMP/bin/php/php7.3.1/conf/php.ini",
+		"/Applications/MAMP/conf/php5.6.2/php.ini",
+		"/Applications/MAMP/conf/php5.6.10/php.ini",
+		"/Applications/MAMP/conf/php7.0.8/php.ini",
+		"/Applications/MAMP/conf/php5.5.37/php.ini",
+		"/Applications/MAMP/conf/php5.6.19/php.ini",
+		"/Applications/MAMP/conf/php7.0.1/php.ini",
+		"/Applications/MAMP/conf/php5.6.26/php.ini",
+		"/Applications/MAMP/conf/php7.0.6/php.ini",
+		"/Applications/MAMP/conf/php5.6.21/php.ini",
+		"/Applications/MAMP/conf/php7.1.19/php.ini",
+		"/Applications/MAMP/conf/php7.1.26/php.ini",
+		"/Applications/MAMP/conf/php7.1.21/php.ini",
+		"/Applications/MAMP/conf/php5.4.30/php.ini",
+		"/Applications/MAMP/conf/php5.3.27/php.ini",
+		"/Applications/MAMP/conf/php5.3.20/php.ini",
+		"/Applications/MAMP/conf/php5.3.29/php.ini",
+		"/Applications/MAMP/conf/php5.4.39/php.ini",
+		"/Applications/MAMP/conf/php7.1.11/php.ini",
+		"/Applications/MAMP/conf/php7.1.20/php.ini",
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/css/style_conflict.css",
+		"/Users/adyjackson/Desktop/Программирование/CSS/ЕП созданные файлы/index_conflict.html",
+		"/Users/adyjackson/Desktop/Программирование/IT-Парк/sttest.php",
+		"/Users/adyjackson/Desktop/Программирование/CSS/css-v2/menu.htm",
+		"/Applications/MAMP/htdocs/index.html",
+		"/Applications/MAMP/htdocs/pre.html",
+		"/Applications/MAMP/htdocs/object.html",
+		"/Applications/MAMP/htdocs/formdata.php",
+		"/Applications/MAMP/htdocs/form.html",
+		"/Users/adyjackson/Desktop/Программирование/HTML/object.html",
+		"/Users/adyjackson/Desktop/vk.html",
+		"/Users/adyjackson/Desktop/Программирование/Формы, обработчик и локальный хост мамп/formdata.php",
+		"/Users/adyjackson/Desktop/Программирование/Формы, обработчик и локальный хост мамп/form.html",
+		"/Users/adyjackson/Desktop/Программирование/Формы, обработчик и локальный хост мамп/index.html",
+		"/Applications/MAMP/smtp/send.php",
+		"/Users/adyjackson/Desktop/Программирование/HTML/one.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

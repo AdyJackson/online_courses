@@ -1,0 +1,131 @@
+body {
+	background-color: #fafafa;
+	font: 105% "Comic Sans MS";
+	color: #590306;
+	width: 950px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+p {
+	text-indent: 30px;
+}
+
+#header {
+	text-align: center;
+	text-transform: capitalize;
+	border-width: 5px 3px;
+	border-style: dotted solid;
+	border-color: blue red;
+	margin: 0 auto;
+	padding: 20px;
+	width: 600px;
+	height: 100px;
+	overflow: auto;
+	color: white;
+	background-color: black;
+}
+
+#header1 {
+	text-align: center;
+	text-transform: capitalize;
+	color: red;
+	border-top: 5px dotted blue;
+	border-bottom: 5px dotted blue;
+	border-right: 3px solid red;
+	border-left: 3px solid red;
+	border-style: solid dotted dashed dotted;
+}
+
+#header2 {
+	text-transform: uppercase;
+	border-right: 3px solid black;
+	border-left: 3px solid black;
+}
+
+.italic {
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: line-through;
+}
+
+.strong {
+	font-weight: bold;
+	text-decoration: underline overline line-through;
+	text-decoration-color: red;
+}
+
+a {
+	color: red;
+	text-decoration: none;
+	/* border-bottom: 3px dotted #ff7b00; */
+}
+
+.justify {
+	text-align: justify;
+}
+
+ul {
+	list-style: outside url(../img/arrow.png);
+	
+}
+
+ol {
+	list-style-type: upper-roman;
+}
+
+table, td, th {
+	border: 1px solid black;
+	text-align: center;
+}
+
+table {
+	width: 700px;
+	margin: 40px auto;
+	border-collapse: collapse;
+}
+
+td, th {
+	height: 48px;
+	vertical-align: middle;
+	background-color: white;
+
+}
+
+th {
+	background-image: url(../img/tablebg.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
